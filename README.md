@@ -20,6 +20,7 @@ The blockage detection process involves the following steps:
 
 4. **Blockage Calculation:**
    - Percentage of blockage is calculated using the radius of the artery.
+   - ![Final result](https://github.com/KaranPadaraiya/Bolckage-detection-in-coronary-artery-of-hart/blob/main/Blockage%20detection.png)
 
 ## Project Report
 Read the full project report: [Project Report](report_link_here)
