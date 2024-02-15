@@ -9,7 +9,7 @@ The developed image processing algorithm can analyze X-ray images of angiography
 The blockage detection process involves the following steps:
 
 1. **Uniform Image Creation:**
-   - Original Image: ![Original Image](https://github.com/KaranPadaraiya/Bolckage-detection-in-coronary-artery-of-hart/blob/main/scene00021.jpg)
+   - Original Image: ![Original Image](https://github.com/KaranPadaraiya/Bolckage-detection-in-coronary-artery-of-hart/blob/main/21.jpg)
    - Uniform Image: ![Uniform Image](https://github.com/KaranPadaraiya/Bolckage-detection-in-coronary-artery-of-hart/blob/main/uniform.png)
 
 2. **Artery Segmentation:**
