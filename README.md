@@ -9,18 +9,22 @@ The developed image processing algorithm can analyze X-ray images of angiography
 The blockage detection process involves the following steps:
 
 1. **Uniform Image Creation:**
-   - Original Image: ![Original Image](https://github.com/KaranPadaraiya/Bolckage-detection-in-coronary-artery-of-hart/blob/main/21.jpg)
-   - Uniform Image: ![Uniform Image](https://github.com/KaranPadaraiya/Bolckage-detection-in-coronary-artery-of-hart/blob/main/uniform.png)
+   - Original Image:
+      - ![Original Image](https://github.com/KaranPadaraiya/Bolckage-detection-in-coronary-artery-of-hart/blob/main/21.jpg)
+   - Uniform Image:
+      - ![Uniform Image](https://github.com/KaranPadaraiya/Bolckage-detection-in-coronary-artery-of-hart/blob/main/uniform.png)
 
 2. **Artery Segmentation:**
-   - Segmentation Image: ![Segmentation Image](https://github.com/KaranPadaraiya/Bolckage-detection-in-coronary-artery-of-hart/blob/main/segmentation.png)
+   - Segmentation Image:
+      - ![Segmentation Image](https://github.com/KaranPadaraiya/Bolckage-detection-in-coronary-artery-of-hart/blob/main/segmentation.png)
 
 3. **Blockage Detection:**
-   - Blockage Detection Image: ![Blockage Detection Image](https://github.com/KaranPadaraiya/Bolckage-detection-in-coronary-artery-of-hart/blob/main/Blockage%20detection.png)
+   - Blockage Detection Image:
+      - ![Blockage Detection Image](https://github.com/KaranPadaraiya/Bolckage-detection-in-coronary-artery-of-hart/blob/main/Blockage%20detection.png)
 
 4. **Blockage Calculation:**
    - Percentage of blockage is calculated using the radius of the artery.
-   - ![Final result](https://github.com/KaranPadaraiya/Bolckage-detection-in-coronary-artery-of-hart/blob/main/Blockage%20detection.png)
+      ![Final result](https://github.com/KaranPadaraiya/Bolckage-detection-in-coronary-artery-of-hart/blob/main/Blocakge%20calculation.png)
 
 ## Project Report
 Read the full project report: [Project Report](report_link_here)
