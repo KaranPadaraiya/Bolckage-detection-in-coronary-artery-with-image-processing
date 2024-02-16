@@ -27,7 +27,7 @@ The blockage detection process involves the following steps:
       ![Final result](https://github.com/KaranPadaraiya/Bolckage-detection-in-coronary-artery-of-hart/blob/main/Blocakge%20calculation.png)
 
 ## Project Report
-Read the full project report: [Project Report](report_link_here)
+Read the full project report: [Project Report](https://drive.google.com/file/d/1yqYBa0NZrFebQoLSmvEItcOYzsH2mC_d/view?usp=sharing)
 
 Feel free to explore the project report for detailed insights into the algorithm, methodology, and results.
 
